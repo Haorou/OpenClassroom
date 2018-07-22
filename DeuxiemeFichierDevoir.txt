@@ -3,3 +3,7 @@ On est donc à 2 commit - plus que 2 et c'est tout cuit !
 
 ---
 C'est le moment du dernier commit et c'est gagné !
+
+--
+
+Puis là aussi on refait du blabla
