@@ -2,4 +2,12 @@ Yes ! ça avance. Voici le second fichier devoir.
 On est donc à 2 commit - plus que 2 et c'est tout cuit !
 
 ---
+<<<<<<< HEAD
 On fait autre chose ici
+=======
+C'est le moment du dernier commit et c'est gagné !
+
+--
+
+Puis là aussi on refait du blabla
+>>>>>>> test
