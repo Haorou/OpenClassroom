@@ -1,0 +1,2 @@
+Yes ! ça avance. Voici le second fichier devoir.
+On est donc à 2 commit - plus que 2 et c'est tout cuit !
